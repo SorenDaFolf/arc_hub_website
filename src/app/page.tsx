@@ -152,8 +152,6 @@ function Panel({
     <a
       href={href}
       aria-label={ariaLabel}
-      target="_blank"
-      rel="noreferrer noopener"
       className="block focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500/80"
     >
       {content}
